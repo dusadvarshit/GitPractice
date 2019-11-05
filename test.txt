@@ -1,2 +1,3 @@
 This file will be used for studying branching in git.
 Second commit for test.txt
+Conflict commit to test_branching_2.
