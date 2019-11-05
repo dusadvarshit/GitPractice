@@ -1,1 +1,2 @@
 This file will be used for studying branching in git.
+Second commit for test.txt
