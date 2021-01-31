@@ -1,3 +1,3 @@
-This is my first test file for git.
-This is my second commit to this file.
-Commit from test_branching branch.
+This file will be used for studying branching in git.
+Second commit for test.txt
+What, there is more to commit
