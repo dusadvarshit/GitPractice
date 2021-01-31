@@ -1,4 +1,5 @@
 This file will be used for studying branching in git.
 Second commit for test.txt
+Adding a line in middle!
 What, there is more to commit!
 Let's create more conflict!
